@@ -7,18 +7,25 @@ This web application is a simple Student Result Management System developed usin
 ## Features
 
 - Add, edit, and delete student records.
+  
 - Record and update student grades and results.
+  
 - View and print student transcripts.
+  
 - User authentication for secure access.
+  
 - Responsive design for optimal user experience on various devices.
 
 
 
 ## Requirements
 
-- Web server 
+- Web server
+  
 - PHP (version 7 or higher)
+  
 - MySQL or any other compatible database
+  
 - Modern web browser
 
 
@@ -48,7 +55,9 @@ This web application is a simple Student Result Management System developed usin
 ## Usage
 
 -Navigate to the application in your web browser.
+
 -Log in using the provided credentials or create a new account.
+
 -Use the intuitive interface to manage student records, grades, and transcripts.
 
 
@@ -56,5 +65,6 @@ This web application is a simple Student Result Management System developed usin
 ##Challenges we ran into
 
 -Time constraints
+
 -Choosing the right language and implementation process
 
