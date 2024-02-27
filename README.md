@@ -34,11 +34,14 @@ This web application is a simple Student Result Management System developed usin
 	// config.php
 
 	define('DB_HOST', 'your_database_host');
+
 	define('DB_USER', 'your_database_user');
+
 	define('DB_PASSWORD', 'your_database_password');
+
 	define('DB_NAME', 'your_database_name');
 
-5. Open the application in your web browser.
+6. Open the application in your web browser.
 
 
 
